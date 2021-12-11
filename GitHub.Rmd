@@ -1,0 +1,45 @@
+---
+title: "GitHub"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## GitHub Account
+#### Brittany King
+
+Some of the main things learned in each week include:
+
+Week 1
+* The difference between classification (qualitative response) and regression (quantitative response) scenarios
+* The importance of the bias-variance trade-off in order to avoid over/under fitting the model: if the model is too simple there may be high bias low variance or if there are too many parameters, there may be low bias high variance
+
+Week 2
+* Exploring data using visualization, specially the ggplot package/functions in R and in finding relationships between two variables
+* The difference between exploratory and explanatory analyses, respectively consisting of exploring/investigating an undefined problem and actively trying to explain how certain phenomena works after said exploring
+
+Week 3
+* Performing linear regressions in R and interpreting their outcomes
+* Performing hypothesis testing on the created linear regression model
+
+Week 4
+* Fitting and performing a logistic regression and interpreting the results to see if any of the predictors are statistically significant
+* Computing confusion matrices and overall fraction of correct predictions produced from the produced logistic regression
+
+Week 5
+* The advantages and disadvantages of using GLMs
+* How to train a GLM using a Poisson or Gamma distribution in order to identify and interpret factors
+
+Week 6
+* How to build decision trees and random forests in R, performing cross-validation, determing the best size of the optimal tree, and pruning the tree with said best size
+* The pros and cons of Gradient Boosting Machine (a tree-based algorithm)
+
+Week 7
+* How to complete k-means clustering and how to apply it to nusiness problems
+* Determining the optimal number of clusters as well as visualizing the clusters in different clusters in R
+
+Week 8
+* The importance of communicating your results with others as it does not matter how great one's analysis if one can't explain it
+* How to create and use Git/GitHub accounts and commands
